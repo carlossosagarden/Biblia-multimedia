@@ -1,0 +1,10 @@
+{
+  "name": "Remix Santa Biblia  Multi-Versión \u0026 Multimedia",
+  "description": "Aplicación bíblica integral con las 66 traducciones en español (RVR1960, NVI, NTV, TLA, LBLA), mapas bíblicos interactivos, ilustraciones históricas, audio IA, notas, películas, series y panel de administración en tiempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
